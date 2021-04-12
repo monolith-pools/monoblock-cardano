@@ -1,1 +1,14 @@
-
+"adapools_ext": {
+  "prometheus": {
+    "0": {
+        "name": "MONOBLOCK Black Producing Node",
+        "type": "bp",
+        "key": "1b83f7114a58925e1f511098624dccdf"
+    },
+    "1": {
+        "name": "MONOBLOCK Relay Node",
+        "type": "relay",
+        "key": "f18020238ecf9a6394d30335eb1f4ce0"
+    },
+  }
+} 
