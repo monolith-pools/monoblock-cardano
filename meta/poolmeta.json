@@ -1,1 +1,7 @@
-
+{
+    "name": "MONOBLOCK",
+    "ticker": "MONO",
+    "description": "Working together toward a better future with Cardano.",
+    "homepage": "https://github.com/monolith-pools/monoblock-cardano/",
+    "extended": "https://github.com/monolith-pools/monoblock-cardano/raw/main/meta/extended_poolmeta.json"
+}
