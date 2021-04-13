@@ -1,4 +1,5 @@
 "adapools_ext": {
+  "7c8e3067ccef6a131e9ea5ef05ff2950": "",
   "prometheus": {
     "0": {
         "name": "MONOBLOCK Block Producing Node",
@@ -18,5 +19,3 @@
     },
   }
 } 
-
-7c8e3067ccef6a131e9ea5ef05ff2950 
