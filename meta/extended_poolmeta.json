@@ -1,20 +1,22 @@
-"adapools_ext": {
-  "prometheus": {
-    "0": {
+{
+  "adapools_ext": {
+    "prometheus": {
+      "0": {
         "name": "MONOBLOCK Block Producing Node",
         "type": "bp",
         "key": "cfa4fe089c1fbe0f253ae740471ff8b7"
-    },
-    "1": {
+      },
+      "1": {
         "name": "MONOBLOCK Relay Node",
         "type": "relay",
         "key": "669bf94f9f22e56a46909e3894e5c660"
-    },
-    "my-pool-ids": {
-      "0": "78761277c7631510cd1fe27d770505fe4790ec0ddb795f5f89a3210b"
-    },
-    "when-satured-then-recommend": {
+      },
+      "my-pool-ids": {
+        "0": "78761277c7631510cd1fe27d770505fe4790ec0ddb795f5f89a3210b"
+      },
+      "when-satured-then-recommend": {
         "0": "ea90b56d9c4d04c583ec728c8b415948b310d4653d12bd281aaff9df"
-    },
+      }
+    }
   }
-} 
+}
